@@ -17,7 +17,7 @@
      *                                                 *
      * * * * * * * * * * * * * * * * * * * * * * * * * */
 
-var IP_ADDRESS = '127.0.0.1:7070';
+var IP_ADDRESS = '127.0.0.1:1080';
 
     /* * * * * * * * * * * * * * * * * * * * * * * * * * 
      *                                                 *
@@ -733,7 +733,8 @@ var RULES = [
         ".mumayi.com",
         ".sttlbb.com",
         ".mangocity.com",
-        ".fantong.com"
+        ".fantong.com",
+        ".pornhub.com
     ]
 ];
 
